@@ -1,0 +1,23 @@
+{
+  "name": "restaurantpage",
+  "version": "1.0.0",
+  "description": "Restaurant Page tutorial from TOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReneFernandoOM/restaurantPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReneFernandoOM/restaurantPage/issues"
+  },
+  "homepage": "https://github.com/ReneFernandoOM/restaurantPage#readme",
+  "devDependencies": {
+    "webpack": "^5.26.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
